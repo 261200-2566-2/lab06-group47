@@ -82,3 +82,4 @@ public class Build extends game {
         this.shield = shieldbase*(1+(0.05*level));
     }
 }
+
